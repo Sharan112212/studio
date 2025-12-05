@@ -7,7 +7,7 @@ const getImage = (id: string) => PlaceHolderImages.find(img => img.id === id);
 export function CertificatesSection() {
   const certificates = [
     {
-      title: 'Certification in Advanced Python',
+      title: 'Certificate in Generative AI',
       issuer: 'Coursera',
       imageUrl: getImage('cert1')?.imageUrl,
       imageHint: getImage('cert1')?.imageHint,
