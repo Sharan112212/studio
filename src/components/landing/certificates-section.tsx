@@ -13,8 +13,8 @@ export function CertificatesSection() {
       imageHint: getImage('cert1')?.imageHint,
     },
     {
-      title: 'Web Development Bootcamp',
-      issuer: 'Udemy',
+      title: 'Cybersecurity Fundamentals',
+      issuer: 'Coursera',
       imageUrl: getImage('cert2')?.imageUrl,
       imageHint: getImage('cert2')?.imageHint,
     }
