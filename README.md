@@ -1,5 +1,5 @@
-# Firebase Studio
+# FolioForge
 
-This is a NextJS starter in Firebase Studio.
+A personal portfolio application built with Next.js and Firebase Studio.
 
-To get started, take a look at src/app/page.tsx.
+To get started, take a look at `src/app/page.tsx`.
