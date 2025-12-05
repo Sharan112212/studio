@@ -14,7 +14,7 @@ export function CertificatesSection() {
     },
     {
       title: 'Web Development Bootcamp',
-      issuer: 'Udemy',
+      issuer: 'coursera',
       imageUrl: getImage('cert2')?.imageUrl,
       imageHint: getImage('cert2')?.imageHint,
     }
