@@ -51,7 +51,7 @@
     {
       "id": "cert1",
       "description": "Certificate one",
-      "imageUrl": "/certificates/cert1",
+      "imageUrl": "/certifications/cert1.jpg",
       "imageHint": "official certificate"
     },
     {
